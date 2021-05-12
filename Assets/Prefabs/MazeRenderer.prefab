@@ -43,8 +43,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c782b25ab44d1004cb774a87b7f30a47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  width: 10
-  height: 2
+  width: 12
+  height: 10
   size: 1
   wallPrefab: {fileID: 4235599874121408184, guid: 6a6dba432e0a31e4aa345228fdcd984d, type: 3}
-  floorPrefab: {fileID: 7932489131385362566, guid: 276f1689bdc318c449a1079bff225477, type: 3}
